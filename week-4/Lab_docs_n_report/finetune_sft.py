@@ -13,8 +13,8 @@ from peft import LoraConfig, get_peft_model, PeftModel
 from datasets import load_dataset
 from huggingface_hub import login
 
-HF_TOKEN = "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" 
-HF_USERNAME = "lizzieO7" 
+HF_TOKEN = "" 
+HF_USERNAME = "" 
 
 # ==========================================
 # 1. Setup & Authentication

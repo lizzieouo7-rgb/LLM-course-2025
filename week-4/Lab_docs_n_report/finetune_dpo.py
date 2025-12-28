@@ -19,8 +19,8 @@ from huggingface_hub import login
 # 1. User Configuration
 # ==========================================
 # Replace with your credentials
-HF_TOKEN = "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" 
-HF_USERNAME = "lizzieO7" 
+HF_TOKEN = "" 
+HF_USERNAME = "" 
 NEW_MODEL_NAME = f"{HF_USERNAME}/Qwen2.5-0.5B-DPO-Aligned"
 
 # ==========================================
